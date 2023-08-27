@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "546436680894",
+    "project_id": "ridesense-f8c9c",
+    "storage_bucket": "ridesense-f8c9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546436680894:android:08dc95a744f6af3aaaa2ef",
+        "android_client_info": {
+          "package_name": "com.example.aaaa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "546436680894-9ijt5727lthhqiktmcj2tibs63ouq3ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBStWjDeng1XzgU8QKKcLBG49aJJghpbBk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "546436680894-9ijt5727lthhqiktmcj2tibs63ouq3ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
